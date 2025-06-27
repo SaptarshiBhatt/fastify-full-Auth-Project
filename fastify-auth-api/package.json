@@ -36,6 +36,6 @@
     "ts-node": "10.9.2",
     "typescript": "5.8.3"
   },
-  "author": "Saikat Sardar",
+  "author": "sourav",
   "license": "MIT"
 }
